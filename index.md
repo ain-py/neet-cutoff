@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## NEET-UG CUTOFFS APP
 
 You can use the [editor on GitHub](https://github.com/ps8is/neet-cutoff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
