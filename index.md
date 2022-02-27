@@ -58,4 +58,4 @@ This Privacy Policy was last updated on Wednesday, Feb 27, 2022.
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact us through email neetcutoffs@gmail.com
