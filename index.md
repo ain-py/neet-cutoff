@@ -54,7 +54,7 @@ Consent
 By using our NEET-UG CUTOFFS APP, you hereby consent to our privacy policy and agree to its terms.
 
 Update
-This Privacy Policy was last updated on Wednesday, Feb 27, 2022.
+This Privacy Policy was last updated on Sunday, Feb 27, 2022.
 Should we update, amend or make any changes to our privacy policy, those changes will be posted here.
 ### Support or Contact
 
